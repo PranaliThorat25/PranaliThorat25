@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @PranaliThorat25.
 - 👀 I’m interested in Computer Programming.
 -  🌱 I’m currently persuing B.Tech in Computer Science and Technology.
-- Here is my Linkedin Profile Link:https://www.linkedin.com/in/pranali-thorat-128882294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Here is my Linkedin Profile Link:
+- https://www.linkedin.com/in/pranali-thorat-128882294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
